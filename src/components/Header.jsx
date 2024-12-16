@@ -1,5 +1,5 @@
 import { useDateTime } from "../hooks/useDataTime";
-import { BirthdayTicker } from "./weeklyBirthdays";
+import { BirthdayTicker } from "./WeeklyBirthdays";
 
 export const Header = () => {
   const { date, time } = useDateTime();

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Trash2, ImagePlus } from "lucide-react";
-import { ImageUploader } from "./imageUploader";
-import { ImageDisplay } from "./imageDisplay";
+import { ImageUploader } from "./ImageUploader";
+import { ImageDisplay } from "./ImageDisplay";
 
 const CLOUD_NAME = "dsccvgunt"; // Cambia esto
 const UPLOAD_PRESET = "cencosudsignage"; // Cambia esto
