@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Trash2, ImagePlus } from "lucide-react";
-import { ImageUploader } from "./ImageUploader";
+import { ImageUploader } from "./imageUploader.jsx";
 import { ImageDisplay } from "./ImageDisplay";
 
 const CLOUD_NAME = "dsccvgunt"; // Cambia esto
