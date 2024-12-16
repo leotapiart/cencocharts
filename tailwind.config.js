@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       animation: {
-        marquee: "marquee 20s linear infinite",
-        "marquee-reverse": "marquee-reverse 20s linear infinite",
+        marquee: "marquee 40s linear infinite",
+        "marquee-reverse": "marquee-reverse 40s linear infinite",
       },
       keyframes: {
         marquee: {
